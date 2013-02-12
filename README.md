@@ -1,2 +1,0 @@
-octopub-test-blog
-=================
